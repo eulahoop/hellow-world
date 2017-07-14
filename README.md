@@ -1,6 +1,6 @@
-Just to get the feel of the new ways to create and develop projects.
+oJust to get the feel of the new ways to create and develop projects.
 Coding is a lot easier with Git Hub Repositiories.
-Rather than re-invent the wheel lets leverage the exisiting coding technolgies.
+Rather than re-invent the wheel lets leverage the exisiting coding technologies.
 Hopefully this will save me time in the medium to long term.
 Having worked in the industry in its infancy (the 80's) I hope some of those disciplines can be transferred onto the newer platforms.
 Recently a prototype android project was my proving ground for the concept of upskilling to the new toolsets.
