@@ -1,8 +1,10 @@
-oJust to get the feel of the new ways to create and develop projects.
-Coding is a lot easier with Git Hub Repositiories.
+Just to get the feel of the new ways to create and develop projects.
+Coding is a lot easier with Git Hub Repositories.
 Rather than re-invent the wheel lets leverage the exisiting coding technologies.
 Hopefully this will save me time in the medium to long term.
-Having worked in the industry in its infancy (the 80's) I hope some of those disciplines can be transferred onto the newer platforms.
+Having worked in the industry in its infancy (the 80's),
+I hope some of those disciplines can be transferred onto the newer platforms.
 Recently a prototype android project was my proving ground for the concept of upskilling to the new toolsets.
 This proved successful and now wishing to leverage open-source code to develop more feature advanced applications.
+Taking a collaborative approach to development is going to reduce development time and enhance progress.
 # hellow-world
